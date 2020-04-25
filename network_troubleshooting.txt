@@ -1,7 +1,16 @@
-- ipconfig
+- ipconfig /all
 - ping IP address/domain
+- ping -4 IPAddress/domain
 - ping default gateway
 - arp -a
-- tracert IP address/domain
-- telnet
+- arp -d
+- tracert IPAddress/domain
+- tracert -4 -d IPAddress/domain
+- netsh
+  - interface ipv4
+    - show config
+  - interface ipv6
+    - show neighbors
+	- delete neighborsplplu
+- telnet domain-name port-number
 - nmap
