@@ -1,0 +1,7 @@
+- ipconfig
+- ping IP address/domain
+- ping default gateway
+- arp -a
+- tracert IP address/domain
+- telnet
+- nmap
