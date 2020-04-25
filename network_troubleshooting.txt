@@ -1,5 +1,5 @@
 - ipconfig /all
-- ping IP address/domain
+- ping IPAddress/domain
 - ping -4 IPAddress/domain
 - ping default gateway
 - arp -a
