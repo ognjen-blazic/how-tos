@@ -11,6 +11,6 @@
     - show config
   - interface ipv6
     - show neighbors
-	- delete neighborsplplu
+    - delete neighbors
 - telnet domain-name port-number
 - nmap
